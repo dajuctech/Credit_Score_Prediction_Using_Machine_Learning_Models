@@ -121,6 +121,4 @@ This project aims to predict creditworthiness and analyze financial behavior usi
 - **Ensemble Comparison:**  
   Compared accuracy and macro-average AUC-ROC scores across ensemble methods using bar charts.
 
----
 
-This summary encapsulates the complete workflow—from data preparation through model evaluation—demonstrating a comprehensive approach to credit score prediction using a blend of supervised and unsupervised machine learning techniques.
